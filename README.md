@@ -1,5 +1,6 @@
 # academia
-Before I wrote C++ and JavaScript, I went to school and did some Reinforcement Learning research. This stuff had a website, now it doesn't, so here it is, for posterity.
+Before I wrote C++ and JavaScript, I did some Reinforcement Learning research. This stuff had a website, now it doesn't, so here it is, for posterity. The abstracts are
+nerdy, and verbose, and I am sorry.
 
 ## Learning Predictive State Representations
 
